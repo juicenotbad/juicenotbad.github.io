@@ -4,6 +4,6 @@ draft = true
 title = 'About'
 +++
 
-I am a medical student interested in :
+# I am a medical student interested in :
 
 - Molecular 
