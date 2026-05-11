@@ -6,6 +6,7 @@ title: "Publication"
 None
 
 ## All 
+<!APA format, latest shown at top>
 
 Peng, K.<sup>†</sup>, Chen, X.<sup>†</sup>, Zhang, Y., Liu, L., **Huang, Q.**, Du, S., Zhu, C., Wang, Y., Wei, F., Gao, S., & Cai, Q. (2025). Lactobacillus crispatus-derived nCEV vesicles promote cutaneous wound healing and inhibit HPV16 infection. *mSystems*, 10(9), e0068325. https://doi.org/10.1128/msystems.00683-25
 

@@ -1,7 +1,2 @@
-My 
-
-## DNA
-
-Study
-
-Method:
+## Undergraduate of Clinical Medicine
+## Fudan University
