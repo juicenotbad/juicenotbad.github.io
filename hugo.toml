@@ -1,26 +1,4 @@
 baseURL = 'https://juicenotbad.github.io/QingyeHuang.github.io/'
 locale = 'en-us'
-title = "My Research Website"
+title = "Qingye Huang Personal Website"
 theme = "blowfish"
-
-[menu]
-    
-    [[menu.main]]
-        name = "Home"
-        rl = "/"
-        weight = 10
-
-    [[menu.main]]
-        name = "Research"
-        rl = "/research/"
-        weight = 20
-
-    [[menu.main]]
-        name = "Notes"
-        url = "/notes/"
-        weight = 30
-
-    [[menu.main]]
-        name = "About"
-        url = "/about/"
-        weight = 40
