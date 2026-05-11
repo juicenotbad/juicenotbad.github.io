@@ -1,5 +1,5 @@
 ---
-title: "Acknowledgement"
+title: "Acknowledgements"
 date: 2026-05-11
 draft: false
 ---
