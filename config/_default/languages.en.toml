@@ -2,23 +2,23 @@ disabled = false
 locale = "en"
 label = "English"
 weight = 1
-title = "Home"
+title = "Qingye Huang"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
+  logo = "img/qyh.png"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "My personal website"
+  description = "Personal website of Qingye Huang"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
   name = "Qingye Huang 黃 慶燁"
   email = "22301050039@m.fudan.edu.cn"
-#   image = "img/blowfish_logo.png"
-#   imageQuality = 96
+  # image = "img/QyH-logo.png"
+  # imageQuality = 96
   headline = "Stay Hungry, Stay Foolish"
   bio = "A little bit about you"
   links = [
