@@ -17,11 +17,11 @@ My current work focuses on DNA damage response and herpesvirus associated cancer
 - Systems neuroscience
 
 ## Experience
-Huashan Hospital, 2026-
+Huashan Hospital (2026-2027)
 
-*Cai* lab, 2022-present
+*Cai* lab (2022-present)
 
-Zhongshan Hospital, 2023-2024
+Zhongshan Hospital (2023-2024)
 
 ## Professional Education
-- 2022.09- B.M., Fudan University
+- B.M., Fudan University (2022-)
